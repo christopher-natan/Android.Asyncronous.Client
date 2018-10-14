@@ -5,8 +5,8 @@ This class is used to communicate asynchronously between other machines using so
 
    ```java
      public void connect() {
-        Client client = new Http();
-        client = new Client("192.168.1.1", 8080);
+        Client client = new Client("192.168.1.1", 8080);
+        client.execute(null, null, null);
         client.setListener(new Client.ClientListener() {
             @Override
             public void onIncomingData(String data) {}
