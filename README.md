@@ -18,6 +18,7 @@ which displaying full screen with the EasyLoad app
 
 #### Demo:
 Youtube: https://www.youtube.com/watch?v=MmLp7KN3-MI
+Facebook video: https://www.facebook.com/easyload.ph/videos/2101718383213214/
 
 [![EasyLoad Machine](https://bit.ly/2Pdp1KH)](https://www.facebook.com/easyload.ph/videos/2101718383213214/)
 
