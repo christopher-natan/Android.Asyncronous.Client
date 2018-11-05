@@ -1,20 +1,22 @@
 # Asyncronous Client
-This class is used to communicate asynchronously between other machines using socket
+This class is used to communicate asynchronously between other machines using socket. And used on my project called EasyLoad
 
-#### Project:
-My latest project of year 2018. 
+#### EasyLoad Project:
+This is my latest project of year 2018. 
 A machine that sends prepaid Top-up to any prepaid(Globe, Smart, Sun) mobile phone. And also serve  as Piso Wifi hotspot.
 
-Programming languages that I've used are:
+#### Programming Languages:
 Android Java, CakePHP, MySQL, nGinx, Python3, NodeJs
 
-Components are: 
+#### Components are: 
 Raspberry Pi 3,  Coin Acceptor, APEX 7000 Bill Acceptor, Relay, OptoCoupler,  Android Tablet 10 inch
 
-With the Android Tablet 10 inch -  I made it as Kiosk Mode which displaying only the EasyLoad app
+#### Kiosk Mode:
+The Android should be rooted which I made it and customized most of the settings to make it as Kiosk Mode 
+which displaying only the EasyLoad app
 
 #### Demo Link:
-[![EasyLoad Machine](http://img.youtube.com/vi/MmLp7KN3-MI/0.jpg?324)](http://www.youtube.com/watch?v=MmLp7KN3-MI)
+[![EasyLoad Machine](https://goo.gl/hnvpDJ)](http://www.youtube.com/watch?v=MmLp7KN3-MI)
 
 
 #### How to:
