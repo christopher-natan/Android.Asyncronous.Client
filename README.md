@@ -1,5 +1,6 @@
 # Asyncronous Client
-This class is used to communicate asynchronously between other machines using socket. And this is included on my project called EasyLoad
+This class is used to communicate asynchronously between other machines using socket.
+This is one of my Android dependency source code on project called EasyLoad
 
 #### EasyLoad Project:
 This is my latest project of year 2018. 
