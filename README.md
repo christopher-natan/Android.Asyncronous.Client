@@ -1,5 +1,5 @@
 # Asyncronous Client
-Java class to communicate asynchronously to a device using socket. Dependency class in my vending machine project
+Java class to communicate asynchronously to a device using socket. Dependency class of my vending machine project
 
 #### Vending Machine Project:
 Latest project of the year 2018. 2 in 1 vending machine, send mobile top up-recharge prepaid phone and a wifi hotspot to provide internet access
