@@ -1,9 +1,8 @@
 # Asyncronous Client
-This class is used to communicate asynchronously between other machines using socket.
-This is one of my Android dependency source code on project called EasyLoad
+Java class to communicate asynchronously to a device using socket. One of the Android dependency class in  vending machine project
 
-#### EasyLoad Project:
-This is my latest project of the year 2018. This machine send top-up to any prepaid mobile (Globe, Smart, Sun) networks. And also serve as Wi-Fi hotspot.
+#### Vending Machine Project:
+Latest project of the year 2018. 2 in 1 vending machine, send mobile top up-recharge prepaid phone and a wifi hotspot to provide internet access
 
 #### Programming Languages:
 Android Java, CakePHP, PHP, MySQL, nGinx, Python3, NodeJs, Shell script
@@ -13,18 +12,16 @@ Raspberry Pi 3, Coin Acceptor, APEX 7000 Bill Acceptor, Channel Relay, OptoCoupl
 
 #### Kiosk Mode:
 + Android tablet is rooted
-+ It only allows EasyLoad App to run
++ Allows running Vending Machine app only
 + Displays custom splash screen and animated logo on startup
 
-#### Demo:
-Youtube: https://www.youtube.com/watch?v=MmLp7KN3-MI
+#### Video:
+https://www.youtube.com/watch?v=MmLp7KN3-MI
 
-Facebook video: https://www.facebook.com/easyload.ph/videos/2101718383213214/
+#### Project Link:
+http://www.cmnworks.com/vending-machine.html
 
-[![EasyLoad Machine](https://bit.ly/2Pdp1KH)](https://www.facebook.com/easyload.ph/videos/2101718383213214/)
-
-
-#### How to:
+#### How to use:
 
    ```java
      public void connect() {
@@ -49,4 +46,5 @@ Facebook video: https://www.facebook.com/easyload.ph/videos/2101718383213214/
             public void onIncomingDataError(String errorMessage) { }
         });
     }
+
 
